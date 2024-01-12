@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Login-and-Signup-React.com/static/css/main.78eb2656.css",
+    "main.js": "/Login-and-Signup-React.com/static/js/main.3587201b.js",
+    "static/js/787.9aad22de.chunk.js": "/Login-and-Signup-React.com/static/js/787.9aad22de.chunk.js",
+    "index.html": "/Login-and-Signup-React.com/index.html",
+    "main.78eb2656.css.map": "/Login-and-Signup-React.com/static/css/main.78eb2656.css.map",
+    "main.3587201b.js.map": "/Login-and-Signup-React.com/static/js/main.3587201b.js.map",
+    "787.9aad22de.chunk.js.map": "/Login-and-Signup-React.com/static/js/787.9aad22de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78eb2656.css",
+    "static/js/main.3587201b.js"
+  ]
+}
